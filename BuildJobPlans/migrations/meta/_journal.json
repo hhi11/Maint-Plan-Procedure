@@ -1,0 +1,11 @@
+{
+  "version": "5",
+  "tableId": "0",
+  "migrations": [
+    {
+      "tag": "0000_opposite_mister_fear",
+      "name": "0000_opposite_mister_fear",
+      "hash": "c5d99ac5-4706-4c5f-b152-70b76b3529bb"
+    }
+  ]
+}
